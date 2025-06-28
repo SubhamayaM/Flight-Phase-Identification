@@ -2,7 +2,7 @@
 
 A powerful offline system to automatically identify and label flight phases using machine learning. It processes FDR (Flight Data Recorder) data, clusters key flight parameters, and predicts flight phases with an LSTM model. Built with KMeans and TensorFlow, this system helps aviation analysts understand flight behavior without requiring an internet connection.
 
-##🔍 Features
+🔍 Features
 
 🛬 Offline Flight Phase Detection using clustering (KMeans) and deep learning (LSTM).
 

@@ -1,1 +1,3 @@
 # Components used
+
+Preprocessing - Loads and normalizes features (Time, Speed, Altitude) using StandardScaler.

@@ -8,4 +8,6 @@ Evaluation - Elbow Method + Silhouette Score for optimal k.
 
 Visualization - 3D scatter plot to visualize clustered flight data.
 
-LSTM Model - Predicting temporal flight phase transitions using an LSTM network
+LSTM Model - Predicting temporal flight phase transitions using an LSTM network.
+
+Interaction	- User inputs cluster count and custom names; training metrics visualized.

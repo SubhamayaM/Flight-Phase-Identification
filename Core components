@@ -3,3 +3,5 @@
 Preprocessing - Loading and normalizing features (Time, Speed, Altitude) using StandardScaler.
 
 Clustering - KMeans for unsupervised flight phase identification.
+
+Evaluation - Elbow Method + Silhouette Score for optimal k.

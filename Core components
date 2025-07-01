@@ -1,3 +1,5 @@
 # Components used
 
-Preprocessing - Loads and normalizes features (Time, Speed, Altitude) using StandardScaler.
+Preprocessing - Loading and normalizing features (Time, Speed, Altitude) using StandardScaler.
+
+Clustering - KMeans for unsupervised flight phase identification.

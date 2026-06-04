@@ -51,7 +51,6 @@ def elbow_method(normalized_features):
 
 elbow_method(normalized_features)
 
-# Ask the user for the number of clusters
 n_clusters = int(input("Enter the number of clusters: "))
 
 # Perform KMeans clustering
